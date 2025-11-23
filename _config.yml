@@ -1,9 +1,24 @@
 title: "Bobby Hajjaj – Narrative Intelligence Reports"
 description: "Narrative intelligence analysis for Dhaka-13 campaign (Oct 20 – Nov 19)"
+
+# GitHub Pages configuration
+url: "https://tanzimtaher.github.io"
+baseurl: "/Narrative_Intelligence_Reports"
+
+# Theme
 remote_theme: just-the-docs/just-the-docs
 
 # Optional but nice
 search_enabled: true
 
+# GitHub Pages plugins
 plugins:
   - jekyll-remote-theme
+
+# Just the Docs settings
+just_the_docs:
+  color_scheme: default
+  heading_anchors: true
+  aux_links:
+    "GitHub":
+      - "https://github.com/tanzimtaher/Narrative_Intelligence_Reports"

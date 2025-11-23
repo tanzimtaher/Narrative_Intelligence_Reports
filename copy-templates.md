@@ -4,12 +4,11 @@ title: "Copy Templates by Content Pillar"
 nav_order: 5
 ---
 
-<button class="print-btn" onclick="window.print()">Download this page as PDF</button>
+<div style="margin: 1rem 0;">
+  <button onclick="window.print()" style="padding: 0.5rem 1rem; background: #2563eb; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 0.875rem;">Download this page as PDF</button>
+</div>
 
 <style>
-.print-btn {
-  margin: 1rem 0;
-}
 @media print {
   .side-bar,
   .site-footer,
@@ -23,7 +22,7 @@ nav_order: 5
     margin: 0 !important;
     padding: 0 1rem !important;
   }
-  .print-btn {
+  button {
     display: none !important;
   }
 }
