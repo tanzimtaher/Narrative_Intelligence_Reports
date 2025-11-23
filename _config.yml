@@ -1,0 +1,9 @@
+title: "Bobby Hajjaj – Narrative Intelligence Reports"
+description: "Narrative intelligence analysis for Dhaka-13 campaign (Oct 20 – Nov 19)"
+remote_theme: just-the-docs/just-the-docs
+
+# Optional but nice
+search_enabled: true
+
+plugins:
+  - jekyll-remote-theme
