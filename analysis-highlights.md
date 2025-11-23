@@ -31,7 +31,7 @@ nav_order: 2
 
 # Analysis Highlights
 
-# Volume, sentiment, and efficiency (non-seeded only)
+## Volume, sentiment, and efficiency (non-seeded only)
 
 - Mobarak is posting ~**5× more** non-seeded content.
 - In *organic* conversations, Mobarak dominates the public timeline. Bobby is under-visible.
@@ -46,7 +46,7 @@ Mobarak owns **visibility and narrative volume**. Bobby owns **quality and senti
 
 ---
 
-# Seeding / promotions
+## Seeding / promotions
 
 - Overall / non-seeded dashboard showed a **large majority of conversations tagged “yes (included)”** in the seeding pie – so the ecosystem itself is already very promotion-heavy.
 - **Bobby (blended):** almost all conversations are in the “yes” category – his digital UGC machine is working; lots of fan pages and search-based tracking around him.
@@ -58,7 +58,7 @@ Both sides are pushing content, but **Mobarak’s seeding translates into more b
 
 ---
 
-# Narrative evolution (micro-waves and spikes)
+## Narrative evolution (micro-waves and spikes)
 
 ### Bobby Hajjaj – blended narrative evolution
 
@@ -84,7 +84,7 @@ Looking at the time-sorted “Narrative Evolution – Influence Score” tables 
 
 ---
 
-# Conversation Channels
+## Conversation Channels
 
 ### Bobby Channels
 
@@ -106,7 +106,7 @@ From the “Channels/Phrases Used To Track Conversations” table:
 
 ---
 
-# Issue ownership (what each candidate “stands for” online)
+## Issue ownership (what each candidate "stands for" online)
 
 ### The **constituency’s real mind-space** is:
 
